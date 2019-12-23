@@ -1,0 +1,11 @@
+{
+	"ip_01":"100.0.0.12",
+	"ip_02":"100.0.0.12",
+	"ip_03":"100.0.0.12",
+	"ip":"100.0.0.12",
+	"port": 1883,
+	"username": "admin",
+	"password": "public",
+	"client_id": "claa_01",
+    "keep_live_time": 60
+}
